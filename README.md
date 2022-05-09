@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @satas20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science
+- 👋 Hi, I’m @satas20 Ata Ayyıldız
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Computer Science in Ted Uni
 - 📫 How to reach me  https://www.linkedin.com/in/ata-ayy%C4%B1ld%C4%B1z-6a68251b6/
 
 <!---
