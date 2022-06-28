@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @satas20 Ata Ayyıldız
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Computer Science in Ted Uni
-- 📫 How to reach me  https://www.linkedin.com/in/ata-ayy%C4%B1ld%C4%B1z-6a68251b6/
+<h1 align="center">
+Ata Ayyıldız
+</h1>
 
-<!---
-satas20/satas20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering Student  at Ted Universty.
+
+I’m currently interested in Game Development.
+
+## Get In Touch
+
+- [LinkedIn](www.linkedin.com/in/ata-ayyildiz)
+- [Instagram](https://instagram.com/Atayyildizz)
+- [Mail](ata.ayyildiz@tedu.edu.tr)
+
+## Languages and Tools
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"" alt="C" width="40" height="40"/> 
+<img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" width=40 height=40/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
