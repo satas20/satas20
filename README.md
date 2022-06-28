@@ -8,7 +8,7 @@ I’m currently interested in Game Development.
 
 ## Get In Touch
 
-- [LinkedIn](www.linkedin.com/in/ata-ayyildiz)
+- [LinkedIn](https://linkedin.com/in/ata-ayyildiz)
 - [Instagram](https://instagram.com/Atayyildizz)
 - [Mail](ata.ayyildiz@tedu.edu.tr)
 
