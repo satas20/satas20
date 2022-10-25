@@ -10,7 +10,7 @@ I’m currently interested in Game Development.
 
 - [LinkedIn](https://linkedin.com/in/ata-ayyildiz)
 - [ItchIo](https://satas20.itch.io)
-- ata.ayyildiz@tedu.edu.tr
+- ata.ayyildiz@outlook.com
 
 ## Languages and Tools
 <p align="center">
