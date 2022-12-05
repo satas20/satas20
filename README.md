@@ -6,7 +6,7 @@ Computer Engineering Student at Ted Universty.
 Passionate about Game Development.
 
 ## Get In Touch
-
+- [Linktree](https://linktr.ee/ataayyildiz)
 - [LinkedIn](https://linkedin.com/in/ata-ayyildiz)
 - [ItchIo](https://satas20.itch.io)
 - ata.ayyildiz@outlook.com
