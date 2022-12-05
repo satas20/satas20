@@ -2,9 +2,8 @@
 Ata Ayyıldız
 </h1>
 
-Computer Engineering Student  at Ted Universty.
-
-I’m currently interested in Game Development.
+Computer Engineering Student at Ted Universty.
+Passionate about Game Development.
 
 ## Get In Touch
 
