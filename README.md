@@ -2,8 +2,8 @@
 Ata Ayyıldız
 </h1>
 
-Computer Engineering Student at Ted Universty.
-Passionate about Game Development.
+<h3 align="center">Senior Computer Engineering Student at Ted Universty.</h3>
+<h3 align="center">Passionate about Game Development.</h3>
 
 ## Get In Touch
 - [Linktree](https://linktr.ee/ataayyildiz)
