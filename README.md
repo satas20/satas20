@@ -2,7 +2,7 @@
 Junior Developer
 ----------------
 # 💫 About Me:
-Senior Computer Engineering Student at Ted Universty. Passionate about Development.<br><br>✉️  You can contact me at ata.ayyildiz@outlook.com
+Junior software egineer. Passionate about Development.<br><br>✉️  You can contact me at ata.ayyildiz@outlook.com
 
 
 # 💻 Tech Stack:
